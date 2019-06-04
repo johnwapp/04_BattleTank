@@ -14,6 +14,7 @@
 *.gch
 *.pch
 
+BattleTank\Content\StarterContent
 # Compiled Dynamic libraries
 *.so
 *.dylib
